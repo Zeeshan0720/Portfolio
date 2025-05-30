@@ -139,6 +139,7 @@ input{
 .btn{
     width: 90px;
     margin-top: 5px;
+    
 }
 .social{
  
@@ -180,6 +181,23 @@ input{
 }
 .inner-education-details{
     margin-top: 5px;
+}
+#skills{
+    padding-top: 50px;
+    padding-bottom: 50px;
+     background-color: rgba(225, 225, 225,0.5);
+    width: 100%;
+    height: 250px;
+    
+    
+}
+.skills{
+    display: flex;
+    margin:20px 0px 0px 220px;
+}
+.inner-skills{
+    margin-right: 120px;
+        font-size: 1.3rem;
 }
 @media (max-width: 600px) {
 
